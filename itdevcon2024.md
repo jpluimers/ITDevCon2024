@@ -8,7 +8,7 @@
 
 Jeroen has been staying low profile for the 5 years after he got diagnosed with rectum cancer, which after the first radiation treatment had spread to his liver.
 
-He never really stopped being in IT, but had first focus ensuring the long term care for his mentally retarded brother could be performed largely without him, and his wife and he could move to a place that had an elevator to ensure it would be the place where they could live even in case they would become less mobile.
+He never really stopped practicing music - it keeps his mind in balance - nor being in IT, but had first focus ensuring the long term care for his mentally retarded brother could be performed largely without him, and his wife and he could move to a place that had an elevator to ensure it would be the place where they could live even in case they would become less mobile.
 
 During that period he and regaining energy, he not only kept his [wiert.me](https://wiert.me/) blog up, but also informally helped quite a few people coping with IT issues and health ones, be it on the physical side, or mental side.
 
