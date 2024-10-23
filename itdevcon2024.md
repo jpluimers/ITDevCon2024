@@ -28,7 +28,7 @@ During the workshop we will play each round interactively: all attendees play th
 
 During the conference you will also get a link to the orginal C# version from which Jeroen derived the Delphi version.
 
-Difficulty level: 1 (intermediate)
+Difficulty level: 2 (intermediate)
 
 ---
 
