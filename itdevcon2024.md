@@ -27,3 +27,9 @@ required:
         Difficulty level is a scale from 1 to 3 with the following mean: introduction, intermediate, advanced
     Speaker’s photo (at least 500x500px)
     Speaker’s profile
+
+---
+
+Notes
+
+https://stackexchange.com/users/14295
