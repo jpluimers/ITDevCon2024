@@ -1,10 +1,10 @@
-![image](./images/ITDevCon2024.Theme.00.Title-Slide.header.png)
+![header](./images/ITDevCon2024.Theme.00.Title-Slide.header.png)
 
 # IT DevCon 2024 sessions by Jeroen Wiert Pluimers
 
 ## Speaker photo
 
-![image](./images/jeroen-wiert-pluimers.portrait-with-cymbals.png)
+![my picture playing cymbals](./images/jeroen-wiert-pluimers.portrait-with-cymbals.png)
 
 ## [Speaker profile](https://www.itdevcon.it/roma/en/speakers/jeroen-wiert-pluimers/)
 
@@ -70,4 +70,4 @@ https://stackexchange.com/users/14295
 
 https://deadlockempire.github.io/
 
-![image](./images/ITDevCon2024.Theme.00.Title-Slide.footer.png)
+![footer](./images/ITDevCon2024.Theme.00.Title-Slide.footer.png)
