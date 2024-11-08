@@ -1,10 +1,12 @@
+![image](./images/ITDevCon2024.Theme.00.Title-Slide.header.png)
+
 # IT DevCon 2024 sessions by Jeroen Wiert Pluimers
 
 ## Speaker photo
 
-![image](https://gist.github.com/user-attachments/assets/8ccc5ea0-e1f6-49e7-91b6-ae9e3eaee8fe)
+![image](./images/jeroen-wiert-pluimers.portrait-with-cymbals.png)
 
-## Speaker profile
+## [Speaker profile](https://www.itdevcon.it/roma/en/speakers/jeroen-wiert-pluimers/)
 
 Jeroen has been staying low profile for the 5 years after he got diagnosed with rectum cancer, which after the first radiation treatment had spread to his liver.
 
@@ -18,9 +20,7 @@ During or after conferences, be sure to bug him about those last points: getting
 
 ---
 
-Title: If you thought you could do multi-threading, then play “The Deadlock Empire” games
-
-Abstract:
+## [If you thought you could do multi-threading, then play “The Deadlock Empire” games](https://www.itdevcon.it/roma/en/sessions/delphi_deadlock_empire/)
 
 This is about a Delphi specific web game focussing on the concurrency issues in multi-threading environments. Each round you play the machine that executes the example code and tries to let it crash in a multi-threading way. Be inventive, think like a bad guy and let the two threads in the sample code deadlock, end up in the same critical section or fail in a debugging assertion.
 
@@ -32,7 +32,7 @@ Difficulty level: 2 (intermediate)
 
 ---
 
-Title: Hidden Gems of Delphi Language: Operator Overloading and Class/Record helpers
+## [Hidden Gems of Delphi Language: Operator Overloading and Class/Record helpers](https://www.itdevcon.it/roma/en/sessions/operator_overloading_in_real_world/)
 
 Abstract:
 
@@ -64,8 +64,10 @@ required:
 
 ---
 
-Notes
+## Notes
 
 https://stackexchange.com/users/14295
 
 https://deadlockempire.github.io/
+
+![image](./images/ITDevCon2024.Theme.00.Title-Slide.footer.png)
