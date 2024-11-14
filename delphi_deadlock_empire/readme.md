@@ -10,4 +10,6 @@ During the conference you will also get a link to the orginal C# version from wh
 
 Difficulty level: 2 (intermediate)
 
+The content will be at [delphi_deadlock_empire.md](./delphi_deadlock_empire.md)
+
 ![footer](../images/ITDevCon2024.Theme.00.Title-Slide.footer.png)
