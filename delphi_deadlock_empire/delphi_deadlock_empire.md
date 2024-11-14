@@ -109,7 +109,6 @@ It means not all code executes atomically.
 
 ### Unsynchronized Code
 
-
 ------------------------------------------------------------------------------
 
 #### Boolean Flags Are Enough For Everyone
@@ -363,7 +362,6 @@ For this challenge, it will be useful to know that most library methods are not 
 
 ### Condition Variables
 
-
 ------------------------------------------------------------------------------
 
 #### Condition Variables
@@ -409,6 +407,10 @@ To win this challenge, you must prevent the dragon from breathing fire.
     -   wait/resume
 
 *You reluctantly cast the spell that splits your spirit in two. And then you both enter the fortress\...*
+
+------------------------------------------------------------------------------
+
+## Final level reached during session: `Manual Reset Event`
 
 ------------------------------------------------------------------------------
 
