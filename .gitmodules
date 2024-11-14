@@ -1,0 +1,6 @@
+[submodule "delphi_language_hidden_gems/NickBookCode"]
+	path = delphi_language_hidden_gems/NickBookCode
+	url = https://github.com/NickHodges/NickBookCode
+[submodule "delphi_language_hidden_gems/SemanticVersion"]
+	path = delphi_language_hidden_gems/SemanticVersion
+	url = https://github.com/VSoftTechnologies/VSoft.SemanticVersion.git

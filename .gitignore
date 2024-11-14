@@ -1,0 +1,13 @@
+__history
+
+*.dproj.local
+*.dcu
+*.dcp
+*.bpl
+*.exe
+*.res
+*.identcache
+*.ico
+*.grouporoj.local
+
+*.ppt
