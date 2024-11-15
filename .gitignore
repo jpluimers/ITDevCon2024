@@ -11,3 +11,5 @@ __history
 *.grouporoj.local
 
 *.ppt
+
+.DS_Store
