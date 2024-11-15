@@ -4,3 +4,12 @@
 [submodule "delphi_language_hidden_gems/SemanticVersion"]
 	path = delphi_language_hidden_gems/SemanticVersion
 	url = https://github.com/VSoftTechnologies/VSoft.SemanticVersion.git
+[submodule "delphi_language_hidden_gems/delphimvcframework"]
+	path = delphi_language_hidden_gems/delphimvcframework
+	url = https://github.com/danieleteti/delphimvcframework.git
+[submodule "delphi_language_hidden_gems/TArrayEx"]
+	path = delphi_language_hidden_gems/TArrayEx
+	url = https://github.com/rgreat/TArrayEx.git
+[submodule "delphi_language_hidden_gems/ArrayHelper"]
+	path = delphi_language_hidden_gems/ArrayHelper
+	url = https://github.com/WilliCommer/ArrayHelper.git
