@@ -18,4 +18,6 @@ Some helper examples: adding `for` ... `in` support to various portions of the D
 
 Difficulty level: 2 (intermediate)
 
+The content will be at [delphi_language_hidden_gems.md](./delphi_language_hidden_gems.md)
+
 ![footer](../images/ITDevCon2024.Theme.00.Title-Slide.footer.png)
